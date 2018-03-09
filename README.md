@@ -1,6 +1,6 @@
 # Palestra Venkat Subramaniam Devoxx 2017
-Link: https://www.youtube.com/watch?v=15X0qFtBqiQ
-Link código original: http://agiledeveloper.com/presentations/functional_programming_in_java_8.zip
+    Link: https://www.youtube.com/watch?v=15X0qFtBqiQ
+    Link código original: http://agiledeveloper.com/presentations/functional_programming_in_java_8.zip
 
 
 *  goto é programação estruturada
